@@ -155,6 +155,9 @@
             <z>0.0</z>
         </axis>
     </animation>
-
+      <!-- ALS Navigation Lights Objects -->
+    <model>
+        <path>Lights/c402-NavLights.xml</path>
+    </model>
 
 </PropertyList>
