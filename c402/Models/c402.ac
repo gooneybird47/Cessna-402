@@ -23,13 +23,13 @@ MATERIAL "transparent" rgb 1.000 1.000 1.000  amb 0.800 0.800 0.800  emis 0.000 
 MATERIAL "Material.002" rgb 1.000 1.000 1.000  amb 0.800 0.800 0.800  emis 0.000 0.000 0.000  spec 0.500 0.500 0.500  shi 64 trans 0.000
 MATERIAL "Material.008" rgb 1.000 1.000 1.000  amb 0.800 0.800 0.800  emis 0.000 0.000 0.000  spec 0.500 0.500 0.500  shi 64 trans 0.000
 OBJECT world
-name "Blender_exporter_v3.2__c402-2.ac"
+name "Blender_exporter_v3.2__c402-3.ac"
 kids 7
 OBJECT poly
 name "body"
 data 12
 Cylinder.001
-crease 40.0
+crease 79.7
 texture "c402-tex.png"
 numvert 2073
 -4.51339 1.17435 0.004
@@ -15759,7 +15759,7 @@ OBJECT poly
 name "gear"
 data 12
 Cylinder.009
-crease 40.0
+crease 89.7
 texture "c402-tex.png"
 numvert 584
 0.00485 0.00061 2.3439
