@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+
+<PropertyList include="c402-main-tiptanks.xml">
+
+  <texture-path>Textures/N402NK</texture-path>
+
+</PropertyList>
